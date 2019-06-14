@@ -1,4 +1,4 @@
-The Breast Cancer Wisconsin dataset. Several parameters about breast cancer tumors are provided and the goal is to classify them as malignant or benign.
+The Breast Cancer Wisconsin dataset includes several parameters about breast cancer tumors. The goal is to build a model to classify unlabeled tumors as malignant or benign.
 
 
 **Conclusion**
