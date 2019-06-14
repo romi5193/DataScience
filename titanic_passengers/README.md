@@ -1,4 +1,4 @@
-Titanic Passengers dataset includes demographic and status aboard the titanic. The goal is to predict the survival of each passenger based on these factors.
+Titanic Passengers dataset includes demographic and status record about passengers aboard the titanic. The goal of the project is to predict passenger survival.
 
 **Conclusion**
 - The factors that most seem to predict survival include the passenger's sex, fare, and whether or not they were in first class
