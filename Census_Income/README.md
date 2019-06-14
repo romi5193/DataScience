@@ -3,6 +3,6 @@ The notebook provides some exploratory data analysis of the Census Income Data S
 
  The objective is to predict whether income exceeds $50K/yr based on census data.
 
-**Conclusion:**
+**Conclusions:**
 - The factors that seem to best indicate correlate with income >50K include age, education-num, sex, capital-gain, capital-loss, hours-per-week
 - The accuracy of the model is 83%
