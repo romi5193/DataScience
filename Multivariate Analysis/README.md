@@ -1,4 +1,4 @@
-# Multivariate analysis of Electron Energy Loss Spectroscopy data
+### Multivariate Analysis of Electron Energy Loss Spectroscopy data
 
 Electron Energy Loss Spectroscopy (EELS) is a critical tool for chemical analysis of materials. The EELS spectrum is a plot of the energy loss vs. intensity. *EELS Spectrum Image 1.dm3* is a 3 dimensional dataset (the area scanned in x and y with an EELS spectra acquired at each pixel).
 
